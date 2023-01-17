@@ -1,4 +1,25 @@
 Name,Location,Appeal code,Disaster type,Appeal type,Orig. type,Date,URL
+Samoa (MAAWS001),Samoa,MAAWS001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627029
+Estonia (MAAEE001),Estonia,MAAEE001,-,IFRC Network Plan,INP_2023_Baltics,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627012
+Lithuania (MAALT001),Lithuania,MAALT001,-,IFRC Network Plan,INP_2023_Baltics,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627019
+"Micronesia, Federated States of (MAAFM001)","Micronesia, Federated States Of",MAAFM001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627026
+Pacific (MAA55001),Asia Pacific,MAA55001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627022
+Mongolia (MAAMN001),Mongolia,MAAMN001,-,IFRC Network Plan,INP_2023_Mongolia,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627011
+Belarus (MAABY003),Belarus,MAABY003,-,IFRC Network Plan,INP_2023_BelarusRussia,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627020
+Libya (MAALY001),Libya,MAALY001,-,IFRC Network Plan,INP_2023_Libya,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627010
+Marshall Islands (MAAMH001),Marshall Islands,MAAMH001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627024
+Lithuania (MAALT001),Lithuania,MAALT001,-,IFRC Network Plan,INP_2023_Baltics,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627017
+Vanuatu (MAAVU001),Vanuatu,MAAVU001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627025
+Palau (MAAPW001),Palau,MAAPW001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627028
+Fiji (MAAFJ002),Fiji,MAAFJ002,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627023
+Solomon Islands (MAASB001),Solomon Islands,MAASB001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627030
+Tonga (MAATO001),Tonga,MAATO001,-,IFRC Network Plan,INP_2023_Tonga,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627021
+Russian Federation (MAARU003),Russian Federation,MAARU003,-,IFRC Network Plan,INP_2023_BelarusRussia,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627018
+Timor-Leste (MAATP001),Timor-Leste,MAATP001,-,IFRC Network Plan,INP_2023_Timor-Leste,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627008
+Kiribati (MAAKI001),Kiribati,MAAKI001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627027
+Tuvalu (MAATV001),Tuvalu,MAATV001,-,IFRC Network Plan,INP_2023_PacificIslands,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627031
+Azerbaijan (MAAAZ003),Azerbaijan,MAAAZ003,-,IFRC Network Plan,INP_2023_Azerbaijan,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=627009
+Kenya - Cholera Outbreak (MDRKE054),Kenya,MDRKE054,Epidemic,DREF Operation,MDRKE054do,2023-01-16,https://adore.ifrc.org/Download.aspx?FileId=626798
 Ethiopia - Food Insecurity (MDRET026),Ethiopia,MDRET026,Civil Unrest,DREF Operation Final Report,MDRET0276m,2023-01-15,https://adore.ifrc.org/Download.aspx?FileId=626558
 Ethiopia - Food Insecurity (MDRET026),Ethiopia,MDRET026,Civil Unrest,DREF Operation Final Report,MDRET026dfr,2023-01-15,https://adore.ifrc.org/Download.aspx?FileId=626560
 Thailand - Monsoon Floods 2022 (MDRTH002),Thailand,MDRTH002,Flood,DREF Operation Update,MDRTH002du1,2023-01-14,https://adore.ifrc.org/Download.aspx?FileId=626459
