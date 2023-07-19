@@ -1,4 +1,77 @@
 Name,Location,Appeal code,Disaster type,Appeal type,Orig. type,Date,URL
+Argentina - Flood June 2023 (MDRAR019),Argentina,MDRAR019,Flood,DREF Operation Update,MDRAR019ou1,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=705864
+Other Resoiurces Humanitarian Response - General P (MDR00003),Switzerland,MDR00003,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDR00003.pdf
+Ukraine Crisis - Poland (MDRPL002),Poland,MDRPL002,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRPL002.pdf
+Ukraine Crisis - Hungary (MDRHU008),Hungary,MDRHU008,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRHU008.pdf
+Ukraine Crisis - Romania (MDRRO005),Romania,MDRRO005,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRRO005.pdf
+Ukraine Crisis - Moldova (MDRMD007),"Moldova, Republic Of",MDRMD007,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRMD007.pdf
+Ukraine Crisis - Europe Regional Office (MDR66001),Hungary,MDR66001,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDR66001.pdf
+Sri Lanka - Complex Emergency (MDRLK014),Sri Lanka,MDRLK014,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRLK014.pdf
+COVID-19 Outbreak (MDRCOVID19),Switzerland,MDRCOVID19,-,Final Report,MDRCOVID19_FR_HighResV7Jul2023,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=704765
+Honduras - Drought (MDRHN018),Honduras,MDRHN018,Drought,Forecast-based Triggered Action,MDRHN018ea,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=704757
+Pop. Movement - Belarus and Neighboring Countries (MGR65001),Hungary,MGR65001,Population Movement,Final Report,MGR65001efr,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=704876
+Nigeria - Hunger Crisis (MDRNG032),Nigeria,MDRNG032,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRNG032.pdf
+Haiti - Earthquake and Cholera (MDRHT018),Haiti,MDRHT018,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRHT018.pdf
+Russia - Population Movement (MDRRU027),Russian Federation,MDRRU027,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRRU027.pdf
+Ukraine Crisis - Belarus (MDRBY011),Belarus,MDRBY011,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRBY011.pdf
+South Africa - Floods and Landslides (MDRZA012),South Africa,MDRZA012,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRZA012.pdf
+Mali - Hunger Crisis (MDRML016),Mali,MDRML016,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRML016.pdf
+Pakistan - Monsoon Floods (MDRPK023),Pakistan,MDRPK023,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRPK023.pdf
+Nigeria - Floods (MDRNG034),Nigeria,MDRNG034,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRNG034.pdf
+Chad - Floods (MDRTD021),Chad,MDRTD021,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRTD021.pdf
+Egypt - Population Movement 2023 (MDREG020),Egypt,MDREG020,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDREG020.pdf
+South Sudan - Population Movement from Sudan (MDRSS013),Republic of South Sudan,MDRSS013,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSS013.pdf
+Bangladesh - Population Movement (MDRBD018),Bangladesh,MDRBD018,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRBD018.pdf
+Afghanistan - Humanitarian Crises (MDRAF007),Afghanistan,MDRAF007,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRAF007.pdf
+Somalia - Hunger Crisis (MDRSO011),Somalia,MDRSO011,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSO011.pdf
+Philippines - Typhoon Rai (Odette) (MDRPH045),Philippines,MDRPH045,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRPH045.pdf
+Madagascar - Heavy Rains and Tropical Storm (MDRMG018),Madagascar,MDRMG018,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRMG018.pdf
+Ukraine Crisis - Russia (MDRRU028),Russian Federation,MDRRU028,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRRU028.pdf
+Africa Coordination - Sudan Population Movement Crisis (MDRS1002),Kenya,MDRS1002,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRS1002.pdf
+Burkina Faso - Hunger Crisis (MDRBF017),Burkina Faso,MDRBF017,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRBF017.pdf
+Central America & Mexico - Migration Crisis (MDR43008),Panama,MDR43008,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDR43008.pdf
+Uganda - Ebola Virus Disease Outbreak (MDRUG047),Uganda,MDRUG047,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRUG047.pdf
+Madagascar - Hunger Crisis (MDRMG019),Madagascar,MDRMG019,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRMG019.pdf
+Syria - Earthquake (MDRSY009),Syrian Arab Republic,MDRSY009,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSY009.pdf
+Malawi - Tropical Storm Freddy Floods (MDRMW018),Malawi,MDRMW018,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRMW018.pdf
+Ethiopia - Population Movement from Sudan (MDRET030),Ethiopia,MDRET030,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRET030.pdf
+Sudan Crisis Regional Population Movement (MDRS1001),Kenya,MDRS1001,Population Movement,Operational strategy,MDRS1001 Chad NS Response Plan,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=705788
+Lebanon - Beirut-Port Explosions (MDRLB009),Lebanon,MDRLB009,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRLB009.pdf
+Sudan - Floods (MDRSD028),Sudan,MDRSD028,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSD028.pdf
+South Sudan - Hunger Crisis (MDRSS010),Republic of South Sudan,MDRSS010,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSS010.pdf
+Lebanon - Complex Humanitarian Crisis (MDRLB010),Lebanon,MDRLB010,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRLB010.pdf
+Malawi - Tropical Storm Ana (MDRMW015),Malawi,MDRMW015,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRMW015.pdf
+Ethiopia - Hunger Crisis (MDRET027),Ethiopia,MDRET027,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRET027.pdf
+Ukraine Crisis - Slovakia (MDRSK001),Europe,MDRSK001,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSK001.pdf
+Ukraine crisis - Geneva Support (MDR00007),Switzerland,MDR00007,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDR00007.pdf
+Bangladesh - Flash Flood (MDRBD028),Bangladesh,MDRBD028,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRBD028.pdf
+Cuba - Hurricane Ian (MDRCU008),Cuba,MDRCU008,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRCU008.pdf
+Sudan - Africa Complex Emergency (MDRSD033),Sudan,MDRSD033,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSD033.pdf
+Chad - Pop. Movement 2023 (MDRTD022),Chad,MDRTD022,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRTD022.pdf
+Central African Republic  - Population Movement from Sudan (MDRCF030),Central African Republic,MDRCF030,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRCF030.pdf
+Sudan Crisis Regional Population Movement (MDRS1001),Kenya,MDRS1001,Population Movement,Operational strategy,MDRS1001 Ethiopia NS Response Plan,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=705741
+Tanzania - Marburg Outbreak (MDRTZ033),"Tanzania, United Republic Of",MDRTZ033,Epidemic,DREF Operation Update,MDRTZ033du1,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=705619
+DREF - Disaster Response Emergency Fund (MDR00001),Switzerland,MDR00001,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDR00001.pdf
+Kenya - Hunger Crisis (MDRKE049),Kenya,MDRKE049,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRKE049.pdf
+Angola - Hunger Crisis (MDRAO007),Angola,MDRAO007,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRAO007.pdf
+Tonga - Volcano and Tsunami (MDRTO002),Tonga,MDRTO002,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRTO002.pdf
+Ukraine Crisis - Ukraine (MDRUA011),Ukraine,MDRUA011,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRUA011.pdf
+Iran - Drought (MDRIR009),"Iran, Islamic Republic Of",MDRIR009,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRIR009.pdf
+Uganda - Population Movement from DRC (MDRUG045),Uganda,MDRUG045,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRUG045.pdf
+MENA Coordination - Sudan Population Movement Crisis (MDRS5001),Lebanon,MDRS5001,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRS5001.pdf
+Niger - Hunger Crisis (MDRNE026),Niger,MDRNE026,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRNE026.pdf
+DR Congo - Hunger Crisis (MDRCD037),"Congo, The Democratic Republic Of The",MDRCD037,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRCD037.pdf
+Malawi - Cholera (MDRMW017),Malawi,MDRMW017,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRMW017.pdf
+Sudan - Hunger Crisis (MDRSD032),Sudan,MDRSD032,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRSD032.pdf
+Cameroon - Hunger Crisis (MDRCM031),Cameroon,MDRCM031,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRCM031.pdf
+IFRC Coordination - Hunger Crisis (MDR64008),Kenya,MDR64008,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDR64008.pdf
+Zimbabwe - Hunger Crisis (MDRZW019),Zimbabwe,MDRZW019,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRZW019.pdf
+Turkiye - Earthquake (MDRTR004),Turkey,MDRTR004,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRTR004.pdf
+Libya- Population Movement from Sudan (MDRLY003),Libya,MDRLY003,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRLY003.pdf
+Sudan Crisis Regional Population Movement (MDRS1001),Kenya,MDRS1001,Population Movement,Operational strategy,MDRS1001 South Sudan NS Response Plan,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=705791
+Sudan Crisis Regional Population Movement (MDRS1001),Kenya,MDRS1001,Population Movement,Operational strategy,MDRS1001 CAR NS Response Plan,2023-07-18,https://adore.ifrc.org/Download.aspx?FileId=705805
+Equatorial Guinea - Marburg Outbreak (MDRGQ003),Equatorial Guinea,MDRGQ003,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRGQ003.pdf
+Myanmar - Cyclone Mocha (MDRMM018),Myanmar,MDRMM018,-,Contributions List,Donor Response,2023-07-18,https://go-api.ifrc.org/publicfile/download?path=/docs/appeals/Active/&name=MDRMM018.pdf
 Republic of Congo - Pop. Movement from DRC (MDRCG019),Congo,MDRCG019,Population Movement,DREF Operation Final Report,MDRCG019dfr,2023-07-13,https://adore.ifrc.org/Download.aspx?FileId=704433
 Sri Lanka - Complex Emergency (MDRLK014),Sri Lanka,MDRLK014,Civil Unrest,12 month update,MDRLK014_OU4,2023-07-12,https://adore.ifrc.org/Download.aspx?FileId=704198
 Tajikistan (MAATJ003),Tajikistan,MAATJ003,-,IFRC Network Plan,INP_2023_Tajikistan_1,2023-07-12,https://adore.ifrc.org/Download.aspx?FileId=704000
